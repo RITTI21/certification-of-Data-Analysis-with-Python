@@ -5,7 +5,9 @@ Successfully completed hands-on training in Python Programming, Data Analysis wi
 
 Completed a comprehensive training program under the **Code Unnati initiative by SAP and Edunet Foundation** during 2023–2024. The curriculum focused on:
 
-- 🔹 Python Programming for data science
-- 🔹 Data analysis and visualization with Python
-- 🔹 Fundamentals of Artificial Intelligence
-- 🔹 Building chatbots using SAP Conversational AI
+-  Python Programming for data science
+-  Data analysis and visualization with Python
+-  Fundamentals of Artificial Intelligence
+-  Building chatbots using SAP Conversational AI
+
+![certificate](https://github.com/user-attachments/assets/9b06bf6e-cb77-4deb-a42a-ce52d7fc1cac)
